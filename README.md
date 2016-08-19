@@ -1,2 +1,2 @@
 # CalculaAIntegralEmCPlusPlus
-Realiza o cálculo das integrais
+Exemplifica como calcular as integrais em C++
